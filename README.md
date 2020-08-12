@@ -1,15 +1,7 @@
-<header class="jumbotron">
 
 # Females in Male Spaces: Examining how female candiates are rapped about and how female rappers rap about political candidates. 
 Monica De Loera
 
-</header>
-
-<div class="container">
-
-<div class="row justify-content-center mb-5">
-
-<div class="col-12 col-md-10">
 
 ## Where and how did I get this data?
 
